@@ -9,4 +9,5 @@
 | Hybrid Azure AD Joined | Active Directory | - Azure AD <br> - MS Intune <br> - Active Directory | - MS Intune <br> - Group Policy | - Windows 8.1 and 7 will be also available. <br> - SSO to Azure Resources from outside. <br> - **After Windows sign-in to a domain-joined device, you can sign in to Azure without entering a username and password.**|
 
 > https://jpazureid.github.io/blog/azure-active-directory/azure-ad-join-vs-azure-ad-device-registration/ <br>
-> https://www.jbsvc.co.jp/useful/windows10/azure_ad.html
+> https://www.jbsvc.co.jp/useful/windows10/azure_ad.html <br>
+> https://learn.microsoft.com/en-us/training/modules/create-configure-manage-identities/7-configure-manage-device-registration
